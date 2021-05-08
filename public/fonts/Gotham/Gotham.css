@@ -1,0 +1,51 @@
+@font-face{
+    font-family:'GothamMediumRounded';
+    font-weight:normal;
+    font-style:normal;
+    src:url('GothamMediumRounded/GothamMediumRounded.eot');
+    src:url('GothamMediumRounded/GothamMediumRounded.eot?#iefix') format("embedded-opentype"),
+        url('GothamMediumRounded/GothamMediumRounded.woff') format("woff"),
+        url('GothamMediumRounded/GothamMediumRounded.ttf') format("truetype"),
+        url('GothamMediumRounded/GothamMediumRounded.svg#fontawesomeregular') format("svg")
+}
+
+@font-face{
+    font-family:"GothamMediumRounded";
+    font-weight:bold;
+    font-style:normal;
+    src:url('GothamMediumRounded/GothamMediumRoundedBold.eot');
+    src:url('GothamMediumRounded/GothamMediumRoundedBold.eot?#iefix') format("embedded-opentype"),
+        url('GothamMediumRounded/GothamMediumRoundedBold.woff') format("woff"),
+        url('GothamMediumRounded/GothamMediumRoundedBold.ttf') format("truetype"),
+        url('GothamMediumRounded/GothamMediumRoundedBold.svg') format("svg")
+}
+@font-face{
+    font-family:'GothamRounded';
+    src:url('GothamRounded/GothamRoundedBold.eot?#iefix') format("embedded-opentype"),
+        url('GothamRounded/GothamRoundedBold.otf') format("opentype"),
+        url('GothamRounded/GothamRoundedBold.woff') format("woff"),
+        url('GothamRounded/GothamRoundedBold.ttf') format("truetype"),
+        url('GothamRounded/GothamRoundedBold.svg#GothamRounded-Bold') format("svg");
+    font-weight:bold;
+    font-style:normal
+}
+@font-face{
+    font-family:'GothamRounded';
+    src:url('GothamRounded/GothamRounded.eot?#iefix') format("embedded-opentype"),
+        url('GothamRounded/GothamRounded.otf') format("opentype"),
+        url('GothamRounded/GothamRounded.woff') format("woff"),
+        url('GothamRounded/GothamRounded.ttf') format("truetype"),
+        url('GothamRounded/GothamRounded.svg#GothamRounded-Light') format("svg");
+    font-weight:lighter;
+    font-style:normal
+}
+@font-face{
+    font-family:'GothamRoundedBook';
+    src:url('GothamRoundedBook/GothamRoundedBook.eot?#iefix') format("embedded-opentype"),
+        url('GothamRoundedBook/GothamRoundedBook.otf') format("opentype"),
+        url('GothamRoundedBook/GothamRoundedBook.woff') format("woff"),
+        url('GothamRoundedBook/GothamRoundedBook.ttf') format("truetype"),
+        url('GothamRoundedBook/GothamRoundedBook.svg#GothamRounded-Book') format("svg");
+    font-weight:normal;
+    font-style:normal
+}

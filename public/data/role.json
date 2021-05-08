@@ -1,0 +1,21 @@
+[ 
+    { 
+        "role_id":1,
+        "parent_id":null,
+        "depth":0,
+        "org_id":1,
+        "lft":1,
+        "rgt":8,
+        "is_base":"0",
+        "name":"SUPERADMIN",
+        "description":null,
+        "store_id":null,
+        "created":null,
+        "createdby":"SYSTEM",
+        "updated":null,
+        "updatedby":null,
+        "status":1,
+        "role_level":0
+    }
+    
+]

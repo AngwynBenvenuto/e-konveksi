@@ -1,0 +1,601 @@
+[ 
+{ 
+"bank_id":4,
+"name":"BCA",
+"description":null
+},
+{ 
+"bank_id":5,
+"name":"MANDIRI",
+"description":null
+},
+{ 
+"bank_id":6,
+"name":"BRI",
+"description":null
+},
+{ 
+"bank_id":7,
+"name":"BUKOPIN",
+"description":null
+},
+{ 
+"bank_id":8,
+"name":"BII",
+"description":null
+},
+{ 
+"bank_id":9,
+"name":"CIMB NIAGA",
+"description":null
+},
+{ 
+"bank_id":10,
+"name":"DANAMON",
+"description":null
+},
+{ 
+"bank_id":11,
+"name":"EKONOMI",
+"description":null
+},
+{ 
+"bank_id":12,
+"name":"GANESHA",
+"description":null
+},
+{ 
+"bank_id":13,
+"name":"WOORI SAUDARA",
+"description":null
+},
+{ 
+"bank_id":14,
+"name":"ICBC INDONESIA",
+"description":null
+},
+{ 
+"bank_id":15,
+"name":"MAYBANK",
+"description":null
+},
+{ 
+"bank_id":16,
+"name":"MASPION",
+"description":null
+},
+{ 
+"bank_id":17,
+"name":"MAYAPADA",
+"description":null
+},
+{ 
+"bank_id":18,
+"name":"MEGA",
+"description":null
+},
+{ 
+"bank_id":19,
+"name":"MNC INTERNASIONAL",
+"description":null
+},
+{ 
+"bank_id":20,
+"name":"NUSANTARA PARAHYANGAN",
+"description":null
+},
+{ 
+"bank_id":21,
+"name":"OCBC NISP",
+"description":null
+},
+{ 
+"bank_id":22,
+"name":"PANIN",
+"description":null
+},
+{ 
+"bank_id":23,
+"name":"PERMATA",
+"description":null
+},
+{ 
+"bank_id":24,
+"name":"QNB INDONESIA",
+"description":null
+},
+{ 
+"bank_id":25,
+"name":"SBI INDONESIA",
+"description":null
+},
+{ 
+"bank_id":26,
+"name":"UOB INDONESIA",
+"description":null
+},
+{ 
+"bank_id":27,
+"name":"CITIBANK",
+"description":null
+},
+{ 
+"bank_id":28,
+"name":"HSBC",
+"description":null
+},
+{ 
+"bank_id":29,
+"name":"STANDARD CHARTERED",
+"description":null
+},
+{ 
+"bank_id":30,
+"name":"BNI",
+"description":null
+},
+{ 
+"bank_id":31,
+"name":"BNI SYARIAH",
+"description":null
+},
+{ 
+"bank_id":32,
+"name":"MEGA SYARIAH",
+"description":null
+},
+{ 
+"bank_id":33,
+"name":"MUAMALAT INDONESIA",
+"description":null
+},
+{ 
+"bank_id":34,
+"name":"BCA SYARIAH",
+"description":null
+},
+{ 
+"bank_id":35,
+"name":"BJB SYARIAH",
+"description":null
+},
+{ 
+"bank_id":36,
+"name":"BTN",
+"description":null
+},
+{ 
+"bank_id":37,
+"name":"ANDA",
+"description":null
+},
+{ 
+"bank_id":38,
+"name":"BUMI ARTA",
+"description":null
+},
+{ 
+"bank_id":39,
+"name":"MAYORA",
+"description":null
+},
+{ 
+"bank_id":40,
+"name":"BANK JATIM",
+"description":null
+},
+{ 
+"bank_id":41,
+"name":"ANZ INDONESIA",
+"description":null
+},
+{ 
+"bank_id":42,
+"name":"COMMONWEALTH",
+"description":null
+},
+{ 
+"bank_id":43,
+"name":"DBS INDONESIA",
+"description":null
+},
+{ 
+"bank_id":44,
+"name":"RABOBANK",
+"description":null
+},
+{ 
+"bank_id":45,
+"name":"MIZUHO",
+"description":null
+},
+{ 
+"bank_id":46,
+"name":"BANK AGRONIAGA",
+"description":null
+},
+{ 
+"bank_id":47,
+"name":"BANK ANTARDAERAH",
+"description":null
+},
+{ 
+"bank_id":48,
+"name":"ARTHA GRAHA INTERNASIONA",
+"description":null
+},
+{ 
+"bank_id":49,
+"name":"EKONOMI RAHARJA",
+"description":null
+},
+{ 
+"bank_id":50,
+"name":"BANK HANA",
+"description":null
+},
+{ 
+"bank_id":51,
+"name":"BANK HIMPUNAN SAUDARA 1906",
+"description":null
+},
+{ 
+"bank_id":52,
+"name":"BANK ICB BUMIPUTERA",
+"description":null
+},
+{ 
+"bank_id":53,
+"name":"BANK INDEX SELINDO",
+"description":null
+},
+{ 
+"bank_id":54,
+"name":"BANK INTERNASIONAL INDONESIA",
+"description":null
+},
+{ 
+"bank_id":55,
+"name":"BANK MESTIKA DHARMA",
+"description":null
+},
+{ 
+"bank_id":56,
+"name":"BANK METRO EXPRESS",
+"description":null
+},
+{ 
+"bank_id":57,
+"name":"BANK MUTIARA",
+"description":null
+},
+{ 
+"bank_id":58,
+"name":"BANK OF INDIA INDONESIA",
+"description":null
+},
+{ 
+"bank_id":59,
+"name":"BANK SINARMAS",
+"description":null
+},
+{ 
+"bank_id":60,
+"name":"BANK  MANDIRI SYARIAH",
+"description":null
+},
+{ 
+"bank_id":61,
+"name":"BANK KESAWAN",
+"description":null
+},
+{ 
+"bank_id":62,
+"name":"ANGLOMAS INTERNASIONAL BANK",
+"description":null
+},
+{ 
+"bank_id":63,
+"name":"BANK ANDARA",
+"description":null
+},
+{ 
+"bank_id":64,
+"name":"BANK ARTOS INDONESIA",
+"description":null
+},
+{ 
+"bank_id":65,
+"name":"BANK BRI SYARIAH",
+"description":null
+},
+{ 
+"bank_id":66,
+"name":"BANK FAMA INTERNASIONAL",
+"description":null
+},
+{ 
+"bank_id":67,
+"name":"BANK HARDA INTERNASIONAL",
+"description":null
+},
+{ 
+"bank_id":68,
+"name":"BANK INA PERDANA",
+"description":null
+},
+{ 
+"bank_id":69,
+"name":"BANK JABAR BANTEN SYARIAH",
+"description":null
+},
+{ 
+"bank_id":70,
+"name":"BANK KESEJAHTERAAN EKONOMI",
+"description":null
+},
+{ 
+"bank_id":71,
+"name":"BANK MITRANIAGA",
+"description":null
+},
+{ 
+"bank_id":72,
+"name":"BANK MULTI ARTA SENTOSA",
+"description":null
+},
+{ 
+"bank_id":73,
+"name":"BANK PANIN SYARIAH",
+"description":null
+},
+{ 
+"bank_id":74,
+"name":"BANK PUNDI INDONESIA",
+"description":null
+},
+{ 
+"bank_id":75,
+"name":"BANK ROYAL INDONESIA",
+"description":null
+},
+{ 
+"bank_id":76,
+"name":"BANK SAHABAT PURBA DANARTA",
+"description":null
+},
+{ 
+"bank_id":77,
+"name":"BANK SAHABAT SAMPOERNA",
+"description":null
+},
+{ 
+"bank_id":78,
+"name":"SYARIAH BUKOPIN",
+"description":null
+},
+{ 
+"bank_id":79,
+"name":"BANK TABUNGAN PENSIUNAN NASIONAL",
+"description":null
+},
+{ 
+"bank_id":80,
+"name":"BANK VICTORIA INTERNATIONAL",
+"description":null
+},
+{ 
+"bank_id":81,
+"name":"BANK VICTORIA SYARIAH",
+"description":null
+},
+{ 
+"bank_id":82,
+"name":"BANK YUDHA BHAKTI",
+"description":null
+},
+{ 
+"bank_id":83,
+"name":"BANK CENTRATAMA NASIONAL ",
+"description":null
+},
+{ 
+"bank_id":84,
+"name":"LIMAN INTERNATIONAL BANK",
+"description":null
+},
+{ 
+"bank_id":85,
+"name":"NATIONALNOBU",
+"description":null
+},
+{ 
+"bank_id":86,
+"name":"PRIMA MASTER BANK",
+"description":null
+},
+{ 
+"bank_id":87,
+"name":"BANK AGRIS",
+"description":null
+},
+{ 
+"bank_id":88,
+"name":"BANK BNP PARIBAS INDONESIA",
+"description":null
+},
+{ 
+"bank_id":89,
+"name":"BANK CAPITAL INDONESIA",
+"description":null
+},
+{ 
+"bank_id":90,
+"name":"BANK KEB INDONESIA",
+"description":null
+},
+{ 
+"bank_id":91,
+"name":"BANK MAYBANK SYARIAH INDONESIA",
+"description":null
+},
+{ 
+"bank_id":92,
+"name":"BANK MIZUHO INDONESIA",
+"description":null
+},
+{ 
+"bank_id":93,
+"name":"BANK RESONA PERDANIA",
+"description":null
+},
+{ 
+"bank_id":94,
+"name":"BANK WINDU KENTJANA INTERNATIONAL",
+"description":null
+},
+{ 
+"bank_id":95,
+"name":"BANK WOORI INDONESIA",
+"description":null
+},
+{ 
+"bank_id":96,
+"name":"BANK CHINA TRUST INDONESIA",
+"description":null
+},
+{ 
+"bank_id":97,
+"name":"BANK SUMITOMO MITSUI INDONESIA",
+"description":null
+},
+{ 
+"bank_id":98,
+"name":"BPD SULAWESI TENGGARA",
+"description":null
+},
+{ 
+"bank_id":99,
+"name":"BPD YOGYAKARTA",
+"description":null
+},
+{ 
+"bank_id":100,
+"name":"BPD KALIMANTAN TIMUR",
+"description":null
+},
+{ 
+"bank_id":101,
+"name":"BANK DKI",
+"description":null
+},
+{ 
+"bank_id":102,
+"name":"BANK LAMPUNG",
+"description":null
+},
+{ 
+"bank_id":103,
+"name":"BANK ACEH",
+"description":null
+},
+{ 
+"bank_id":104,
+"name":"BANK KALIMANTAN TENGAH",
+"description":null
+},
+{ 
+"bank_id":105,
+"name":"BPD JAMBI",
+"description":null
+},
+{ 
+"bank_id":106,
+"name":"BPD SULAWESI SELATAN DAN SULAWESI BARAT",
+"description":null
+},
+{ 
+"bank_id":107,
+"name":"BPD RIAU DAN KEPULAUAN RIAU",
+"description":null
+},
+{ 
+"bank_id":108,
+"name":"BPD SUMATERA BARAT",
+"description":null
+},
+{ 
+"bank_id":109,
+"name":"BPD JAWA BARAT DAN BANTEN, TBK",
+"description":null
+},
+{ 
+"bank_id":110,
+"name":"BPD MALUKU",
+"description":null
+},
+{ 
+"bank_id":111,
+"name":"BPD BENGKULU",
+"description":null
+},
+{ 
+"bank_id":112,
+"name":"BPD JAWA TENGAH",
+"description":null
+},
+{ 
+"bank_id":113,
+"name":"BPD JAWA TIMUR",
+"description":null
+},
+{ 
+"bank_id":114,
+"name":"BPD KALIMANTAN BARAT",
+"description":null
+},
+{ 
+"bank_id":115,
+"name":"BPD NUSA TENGGARA BARAT",
+"description":null
+},
+{ 
+"bank_id":116,
+"name":"BPD NUSA TENGGARA TIMUR",
+"description":null
+},
+{ 
+"bank_id":117,
+"name":"BPD SULAWESI TENGAH",
+"description":null
+},
+{ 
+"bank_id":118,
+"name":"BPD SULAWESI UTARA",
+"description":null
+},
+{ 
+"bank_id":119,
+"name":"BPD BALI",
+"description":null
+},
+{ 
+"bank_id":120,
+"name":"BPD KALIMANTAN SELATAN",
+"description":null
+},
+{ 
+"bank_id":121,
+"name":"BPD PAPUA",
+"description":null
+},
+{ 
+"bank_id":122,
+"name":"BPD SUMATERA SELATAN DAN BANGKA BELITUNG",
+"description":null
+},
+{ 
+"bank_id":123,
+"name":"BPD SUMATERA UTARA",
+"description":null
+}]

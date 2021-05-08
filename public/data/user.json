@@ -1,0 +1,25 @@
+[ 
+    { 
+        "user_id":1,
+        "role_id":1,
+        "org_id":null,
+        "username":"superadmin",
+        "user_photo":null,
+        "first_name":null,
+        "last_name":null,
+        "password":"455d6c022f545603c43c1767225d93a1",
+        "email":null,
+        "last_login":"2019-11-15 10:32:43",
+        "last_request":"2019-11-15 10:32:51",
+        "login_count":1,
+        "description":"Admin Utama",
+        "is_base":"0",
+        "created":null,
+        "createdby":null,
+        "updated":"2019-11-15 10:32:43",
+        "updatedby":null,
+        "status":1,
+        "is_disabled":0
+    }
+   
+]
